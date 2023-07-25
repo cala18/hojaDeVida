@@ -1,12 +1,67 @@
-.container1{
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+.containerp{
     display: flex;
-    width: (calc(30%));
+    padding: 2%;
+    margin-bottom: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
+
+    
+}
+.container1{
+    flex-direction: column;
+    width: calc(33.33%);
+    background-color: rgb(64, 64, 64);
+    box-shadow: red;
+    border: solid 0.5px;
+    
+    
+}
+.image1{
+    margin-left: 15%;
+}
+.perfil{
+    margin-left: 15%;
+
+}
+.skills{
+    margin-left: 15%;
+}
+.proyectos{
+    margin-left: 15%;
+}
+.logros{
+    margin-left: 15%;
+}
+.idiomas{
+    margin-left: 15%;
+}
+.estudios{
+    margin-left: 15%;
+}
+.experiencia{
+    margin-left: 15%;
+}
+.cala{
+    margin-left: 8%;
+    height: 150px;
 }
 .container2{
-    display: flex;
-    width: (calc(30%));
+    flex-direction: column;
+    width: calc(33.33%);
+    background-color: rgb(64, 64, 64);
+    border: solid;
+    border: solid 0.5px;
 }
 .container3{
-    display: flex;
-    width: (calc(30%));
+    flex-direction: column;
+    width: calc(33.33%);
+    background-color: rgb(64, 64, 64);
+    border: solid;
+    border: solid 0.5px;
+
 }
