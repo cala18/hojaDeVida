@@ -1,0 +1,12 @@
+.container1{
+    display: flex;
+    width: (calc(30%));
+}
+.container2{
+    display: flex;
+    width: (calc(30%));
+}
+.container3{
+    display: flex;
+    width: (calc(30%));
+}
