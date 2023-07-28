@@ -9,59 +9,61 @@ body {
     margin-bottom: 5%;
     margin-left: 20%;
     margin-right: 20%;
+    
+    
 
     
 }
 .container1{
     flex-direction: column;
     width: calc(33.33%);
-    background-color: rgb(64, 64, 64);
+    background-color: rgb(230, 230, 230);
     box-shadow: red;
     border: solid 0.5px;
     
     
+    
+}
+dt{
+    font-size: 25px;
+    font-weight: 900;
 }
 .image1{
     margin-left: 15%;
 }
-.perfil{
-    margin-left: 15%;
+h1{
+    background-color: aqua;
+    width: 100%;
+    box-shadow: red;
+}
 
-}
-.skills{
-    margin-left: 15%;
-}
-.proyectos{
-    margin-left: 15%;
-}
-.logros{
-    margin-left: 15%;
-}
-.idiomas{
-    margin-left: 15%;
-}
-.estudios{
-    margin-left: 15%;
-}
-.experiencia{
-    margin-left: 15%;
-}
+
+
 .cala{
     margin-left: 8%;
-    height: 150px;
+    height: 250px;
+    
 }
 .container2{
     flex-direction: column;
     width: calc(33.33%);
-    background-color: rgb(64, 64, 64);
+    background-color: rgb(230, 230, 230);
     border: solid;
     border: solid 0.5px;
 }
 .container3{
     flex-direction: column;
     width: calc(33.33%);
-    background-color: rgb(64, 64, 64);
+    background-color: rgb(230, 230, 230);
     border: solid;
     border: solid 0.5px;
 
+}
+.perfil h1{
+    background-color: aqua;
+    width: 100%;
+}
+
+.skills h1{
+    
 }
